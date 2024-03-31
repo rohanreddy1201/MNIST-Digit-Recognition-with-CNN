@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import numpy as np
 import pandas as pd
 import tensorflow as tf
@@ -96,4 +90,3 @@ plt.xlabel('Digit')
 plt.ylabel('Accuracy')
 plt.title('Class-wise Accuracy')
 plt.show()
-
