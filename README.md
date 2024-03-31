@@ -1,5 +1,5 @@
 # MNIST Digit Recognition with CNN
-This is my python3 code to build a convolutional neural network (CNN) model to recognize handwritten digits from the MNIST dataset.
+This is my python3 code to build a convolutional neural network (CNN) model to recognize handwritten digits from the MNIST dataset implementing Tensorflow.
 
 # Dataset
 I have used the MNIST dataset in the csv format, which helped make it easier for me to implement the CNN.
